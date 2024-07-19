@@ -1,9 +1,6 @@
 # Earth_Observation_Remote_Sensing
 
-It's an exciting time to learn about Earth Observation and Remote Sensing. As more and more satellites are launched to observe the Earth surface, understanding how to access, 
-download and analyze Earth Observation dataset becomes crucial for researcher, scientists, data scientist and engineer alike. This repo is structured as an introductory course on 
-using satellite imagery for a variety of applications. We provide hands-on example leveraging python and geospatial libraries such as gdal/ogr, rasterio, geopandas, xarray and many more
-open source libraries.
+It's an exciting time to learn about Earth Observation and Remote Sensing. As more and more satellites are launched to observe the Earth surface, understanding how to access, download and analyze Earth Observation dataset becomes crucial for researcher, scientists, data scientist and engineer alike. This repo is structured as an introductory course on using satellite imagery for a variety of applications. We provide hands-on example leveraging python and geospatial libraries such as gdal/ogr, rasterio, geopandas, xarray and many more open source libraries.
 
 Exercies follow a sequence but you can start anywhere you might like:
 
