@@ -11,4 +11,5 @@ Exercies follow a sequence but you can start anywhere you might like:
 2. Downloading and processing data using STAC and COGS: Sentinel 2 use case
 3. Quality and pixel masking:  Sentinel 2 use case
 4. Monitoring flooding with Time series Sentinel 2: an intro
-5. Workflow to monitor flooding: an example from download to analysis  
+5. Workflow to monitor flooding: an example from download to analysis 
+6. Flood mapping with Sentinel 1
