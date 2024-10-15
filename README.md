@@ -5,8 +5,9 @@ It's an exciting time to learn about Earth Observation and Remote Sensing. As mo
 Exercies follow a sequence but you can start anywhere you might like:
 
 1. Intro to Remote Sensing
-2. Downloading and processing data using STAC and COGS: Sentinel 2 use case
-3. Quality and pixel masking:  Sentinel 2 use case
-4. Monitoring flooding with Time series Sentinel 2: an intro
-5. Workflow to monitor flooding: an example from download to analysis 
-6. Flood mapping with Sentinel 1
+2. STAC intro: searching for earth imagery
+3. Downloading and processing data using STAC and COGS: Sentinel 2 use case
+4. Quality and pixel masking:  Sentinel 2 use case
+5. Monitoring flooding with Time series Sentinel 2: an intro
+6. Workflow to monitor flooding: an example from download to analysis 
+7. Flood mapping with Sentinel 1
