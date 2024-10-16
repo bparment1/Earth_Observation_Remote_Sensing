@@ -6,7 +6,7 @@ Exercies follow a sequence but you can start anywhere you might like:
 
 1. Intro to Remote Sensing
 2. STAC intro: searching for earth imagery
-3. Downloading and processing data using STAC and COGS: Sentinel 2 use case
+3. Downloading and processing data using STAC, GDAL and rasterio: Sentinel 2 use case
 4. Quality and pixel masking:  Sentinel 2 use case
 5. Monitoring flooding with Time series Sentinel 2: an intro
 6. Workflow to monitor flooding: an example from download to analysis 
