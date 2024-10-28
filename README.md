@@ -8,8 +8,10 @@ Exercies follow a sequence but you can start anywhere you might like:
 2. STAC intro: searching for earth imagery
 3. Downloading and processing data using STAC, GDAL and rasterio: Sentinel 2 use case
 4. Quality and pixel masking:  Sentinel 2 use case
-5. Visualizing images with rasterio and xarray
+5. Visualizing earth imagery with rasterio and xarray
 6. Monitoring flooding with Time series Sentinel 2, GDAL and rasterio
 7. Monitoring flooding with Time series Sentinel 2, xarray
-8. Workflow to monitor flooding: an example from download to analysis 
-9. Flood mapping with Sentinel 1
+8. Scaling with dask and xarray: intro
+9. STAC advanced and using stack stac
+10. Workflow to monitor flooding: an example from download to analysis 
+11. Flood mapping with Sentinel 1
